@@ -3,6 +3,8 @@
 ## Project Overview
 Analyzed 1,000 e-commerce transactions to identify seasonal revenue trends, evaluate logistical efficiency, and model actionable growth strategies. 
 
+*This analysis was conducted based on the original business requirements outlined in the [Project Brief](Docs/Ferns_and_Petals_Sales_Analysis.pdf).*
+
 *Note: Data was extracted and transformed from multiple raw files via Power Query. Local folder path connections have been preserved in the workbook for structural review.*
 
 ![Full Dashboard Overview](Images/full_dashboard.png)
